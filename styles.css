@@ -31,6 +31,12 @@ header {
   color: #FFFFFF;
 }
 
+.profile-image {
+  width: 200px; 
+  height: 200px; 
+  border-radius: 50%;
+}
+
 .container{
   width: 80%;
   margin: 0 auto;
@@ -109,4 +115,3 @@ footer {
 .foot-info{
   color: #FFFFFF;
 }
-
